@@ -1,7 +1,7 @@
 Synthesizing 9/10 solutions (Duplicates hidden)
 
 =======
-Suggention 1
+Suggestion 1
 
 // Create web server for comment
 //=====================================

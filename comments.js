@@ -1,8 +1,3 @@
-Synthesizing 9/10 solutions (Duplicates hidden)
-
-=======
-Suggestion 1
-
 // Create web server for comment
 //=====================================
 
